@@ -1,0 +1,9 @@
+com\mocloud\user\web\controller\configRefreshScope\ConfigClientController.class
+com\mocloud\user\web\config\config.class
+com\mocloud\user\web\config\rabbitmqtest\RabbitConfig.class
+com\mocloud\user\web\config\rabbitmqtest\StreamSend.class
+com\mocloud\user\web\config\rabbitmqtest\StreamClient.class
+com\mocloud\user\web\config\rabbitmqtest\Sender.class
+com\mocloud\user\MoCloudUserApplication.class
+com\mocloud\user\web\config\rabbitmqtest\StreamReceiver.class
+com\mocloud\user\web\controller\user\UserController.class

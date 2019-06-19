@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: mo-cloud-eureka
+  profiles:
+    active: dev
+
+

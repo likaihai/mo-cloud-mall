@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mo-cloud-sso-client" />
+        <module name="mo-cloud-sso-common" />
+        <module name="mo-cloud-sso-dal" />
+        <module name="mo-cloud-sso-service" />
+        <module name="mo-cloud-sso-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mo-cloud-sso" target="1.8" />
+      <module name="mo-cloud-sso-client" target="1.8" />
+      <module name="mo-cloud-sso-common" target="1.8" />
+      <module name="mo-cloud-sso-dal" target="1.8" />
+      <module name="mo-cloud-sso-service" target="1.8" />
+      <module name="mo-cloud-sso-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: mo-cloud-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: http://192.168.10.170/likaihai/mo-cloud-config-repo.git
+          username: likaihai
+          password: woaini00000000
+          search-paths: "*"
+          basedir: D:\java\project\mo-cloud\mo-cloud-config-repo    # 本地配置文件路径 注意：需要关联到git服务器地址方可，否则报错
+      label: master
+      profile: dev
+
+  rabbitmq:
+    host: 192.168.33.233
+    port: 5672
+    username: admin
+    password: admin
+server:
+  port: 8888
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

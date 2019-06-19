@@ -1,0 +1,3 @@
+com\mocloud\user\client\user\UserClientFallbackHystrix.class
+com\mocloud\user\client\user\FeignUserConfiguration.class
+com\mocloud\user\client\user\UserFeignClient.class

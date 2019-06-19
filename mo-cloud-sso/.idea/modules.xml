@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-sso.iml" filepath="$PROJECT_DIR$/mo-cloud-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-sso-client/mo-cloud-sso-client.iml" filepath="$PROJECT_DIR$/mo-cloud-sso-client/mo-cloud-sso-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-sso-common/mo-cloud-sso-common.iml" filepath="$PROJECT_DIR$/mo-cloud-sso-common/mo-cloud-sso-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-sso-dal/mo-cloud-sso-dal.iml" filepath="$PROJECT_DIR$/mo-cloud-sso-dal/mo-cloud-sso-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-sso-service/mo-cloud-sso-service.iml" filepath="$PROJECT_DIR$/mo-cloud-sso-service/mo-cloud-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-sso-web/mo-cloud-sso-web.iml" filepath="$PROJECT_DIR$/mo-cloud-sso-web/mo-cloud-sso-web.iml" />
+    </modules>
+  </component>
+</project>

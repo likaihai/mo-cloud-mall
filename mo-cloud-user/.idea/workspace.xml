@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b9d7ef0-c504-4eba-bfaa-d088ea58620e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/mo-cloud-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/mo-cloud-user-dal/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/mo-cloud-user-common/target/" />
+    <ignored path="$PROJECT_DIR$/mo-cloud-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/mo-cloud-user-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeignUserConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/FeignUserConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserClientFallbackHystrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserClientFallbackHystrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/RabbitConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserFeignClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserFeignClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigClientController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/controller/configRefreshScope/ConfigClientController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/StreamClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamReceiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/StreamReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Receiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/Receiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamSend.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/StreamSend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Hystrix</find>
+      <find>HystrixThreadPoolProperties.Setter</find>
+      <find>HystrixThreadPoolProperties.Setter()</find>
+      <find>rollingStatisticalWindowInMilliseconds</find>
+      <find>euraka</find>
+      <find>hello1</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/MoCloudUserApplication.java" />
+        <option value="$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/demo/HystrixThreadPoolPropertiesDemo.java" />
+        <option value="$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/Receiver.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../java_maven/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mo-cloud-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mo-cloud-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="155" />
+    <option name="y" value="41" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+              <item name="mo-cloud-user-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+              <item name="mo-cloud-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+              <item name="mo-cloud-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+              <item name="mo-cloud-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+              <item name="mo-cloud-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+              <item name="mo-cloud-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+              <item name="mo-cloud-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mo-cloud-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mo-cloud-user" type="462c0819:PsiDirectoryNode" />
+              <item name="mo-cloud-user-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="configRefreshScope" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23454158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="117" lean-forward="true" selection-start-line="11" selection-start-column="110" selection-end-line="11" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-dal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix/2.0.2.RELEASE/spring-cloud-starter-netflix-2.0.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/spring-cloud-openfeign-core-2.0.2.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.0.2.RELEASE/spring-cloud-starter-netflix-hystrix-2.0.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/FeignUserConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserClientFallbackHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/MoCloudUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/FeignUserConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserClientFallbackHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/MoCloudUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/FeignUserConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserClientFallbackHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/MoCloudUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/spring-cloud-openfeign-core-2.0.2.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix/2.0.2.RELEASE/spring-cloud-starter-netflix-2.0.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.12/hystrix-core-1.5.12.jar!/com/netflix/hystrix/HystrixThreadPoolProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="190" column="24" lean-forward="false" selection-start-line="190" selection-start-column="24" selection-end-line="190" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.0.2.RELEASE/spring-cloud-starter-netflix-hystrix-2.0.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.12/hystrix-core-1.5.12-sources.jar!/com/netflix/hystrix/HystrixThreadPoolProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6939">
+          <caret line="313" column="22" lean-forward="false" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/demo/HystrixThreadPoolPropertiesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.12/hystrix-core-1.5.12-sources.jar!/com/netflix/hystrix/HystrixCommandProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18306">
+          <caret line="765" column="22" lean-forward="false" selection-start-line="765" selection-start-column="22" selection-end-line="765" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.12/hystrix-core-1.5.12-sources.jar!/com/netflix/hystrix/metric/consumer/BucketedCounterStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="38" column="43" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-dal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="54" column="39" lean-forward="false" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9342">
+          <caret line="479" column="9" lean-forward="false" selection-start-line="479" selection-start-column="9" selection-end-line="479" selection-end-column="9" />
+          <folding>
+            <marker date="1546497453478" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1546497453478" expanded="false" signature="167:666" ph="..." />
+            <marker date="1546497453478" expanded="true" signature="668:726" ph="@{...}" />
+            <marker date="1546497453478" expanded="true" signature="1582:1589" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="1618:1629" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="1646:1652" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="1688:1837" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="1875:1886" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="1903:1909" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="1935:1946" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="1963:1969" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="2002:2267" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="2302:2313" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="2330:2336" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="2370:2381" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="2403:2409" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="2450:3025" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="3074:3180" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="3258:3657" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="3690:3701" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="3722:3728" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="3768:4079" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="4125:4136" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="4161:4167" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="4200:4211" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="4232:4238" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="4278:4599" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="4645:4656" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="4681:4687" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="4729:4740" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="4756:4762" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="4798:4809" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="4833:4839" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="4882:5215" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="5267:5278" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="5340:5346" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="5391:5402" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="5433:5439" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="5507:5518" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="5563:5569" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="5611:5622" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="5652:5658" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="5723:5734" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="5777:5783" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="5824:5835" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="5864:5870" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="5933:5944" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="5985:5991" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="6035:6046" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="6076:6082" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="6148:6159" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="6202:6208" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="6254:6265" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="6283:6289" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="6341:6352" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="6373:6379" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="6431:6442" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="6463:6469" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="6510:8585" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="6823:7062" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="7112:7272" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="7336:7767" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="7823:8191" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="8245:8579" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="8656:8939" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="8732:8743" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="8781:8796" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="8818:8828" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="8881:8896" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="8923:8933" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="8971:10263" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="9244:9255" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="9291:9306" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="9326:9336" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="9385:9400" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="9423:9433" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="9470:9485" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="9509:9519" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="9572:9587" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="9618:9628" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="9674:9689" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="9717:9727" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="9793:9808" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="9847:9857" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="9896:9911" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="9934:9944" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="9998:10013" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="10042:10052" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="10094:10109" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="10133:10143" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="10201:10216" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="10247:10257" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="10298:11716" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="10603:10614" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="10664:10679" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="10697:10707" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="10746:10761" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="10783:10793" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="10846:10861" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="10888:10898" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="10943:10958" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="10985:10995" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="11059:11074" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="11111:11121" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="11164:11179" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="11204:11214" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="11274:11289" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="11322:11332" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="11369:11384" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="11405:11415" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="11465:11480" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="11505:11515" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="11554:11569" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="11592:11602" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="11656:11671" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="11700:11710" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="11797:12132" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="11876:11887" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="11934:11949" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="11979:11989" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="12058:12073" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="12116:12126" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="12213:13035" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="12367:12378" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="12419:12434" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="12458:12468" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="12525:12540" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="12571:12581" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="12625:12640" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="12667:12677" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="12740:12755" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="12792:12802" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="12847:12862" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="12890:12900" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="12965:12980" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="13019:13029" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="13084:14694" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="13436:13447" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="13487:13502" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="13526:13536" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="13593:13608" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="13639:13649" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="13702:13717" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="13745:13755" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="13828:13843" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="13882:13892" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="13930:13945" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="13966:13976" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="14027:14042" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="14067:14077" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="14129:14144" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="14179:14189" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="14269:14346" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="14394:14409" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="14439:14449" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="14519:14534" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="14577:14587" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="14645:14660" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="14678:14688" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="14729:15584" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="14937:15143" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="15200:15215" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="15232:15242" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="15317:15332" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="15358:15368" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="15429:15444" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="15463:15473" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="15534:15549" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="15568:15578" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="15623:15707" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="15690:15701" ph="{}" />
+            <marker date="1546497453478" expanded="true" signature="15739:17417" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="15976:15987" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="16047:16062" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="16082:16092" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="16158:16173" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="16196:16206" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="16247:16798" ph="{...}" />
+            <marker date="1546497453478" expanded="false" signature="16351:16370" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="16400:16414" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="16454:16473" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="16490:16504" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="16553:16572" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="16589:16603" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="16641:16660" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="16677:16691" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="16738:16757" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="16774:16788" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="16836:17411" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="16948:16963" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="17001:17020" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="17037:17051" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="17098:17117" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="17134:17148" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="17198:17217" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="17245:17259" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="17329:17348" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="17387:17401" ph=" }" />
+            <marker date="1546497453478" expanded="true" signature="17447:19453" ph="{...}" />
+            <marker date="1546497453478" expanded="true" signature="17785:17796" ph="{}" />
+            <marker date="1546497453478" expanded="false" signature="17832:17847" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="17867:17877" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="17926:17941" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="17964:17974" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18011:18026" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18047:18057" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18107:18122" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18147:18157" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18198:18213" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18238:18248" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18306:18321" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18354:18364" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18409:18424" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18453:18463" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18529:18544" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18585:18595" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18634:18649" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18672:18682" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18736:18751" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18780:18790" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18833:18848" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18875:18885" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="18947:18962" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="18999:19009" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="19056:19071" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="19102:19112" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="19182:19197" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="19242:19252" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="19290:19305" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="19327:19337" ph=" }" />
+            <marker date="1546497453478" expanded="false" signature="19392:19407" ph=" { " />
+            <marker date="1546497453478" expanded="false" signature="19437:19447" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/controller/user/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/StreamClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/StreamSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/StreamReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/config/rabbitmqtest/RabbitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/FeignUserConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserClientFallbackHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-client/src/main/java/com/mocloud/user/client/user/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mo-cloud-user-web/src/main/java/com/mocloud/user/web/controller/configRefreshScope/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+com\mocloud\user\dal\entity\UserEntity.class
+com\mocloud\user\dal\mapper\UserMapper.class

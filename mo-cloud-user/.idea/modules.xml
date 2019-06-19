@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-user.iml" filepath="$PROJECT_DIR$/mo-cloud-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-user-client/mo-cloud-user-client.iml" filepath="$PROJECT_DIR$/mo-cloud-user-client/mo-cloud-user-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-user-common/mo-cloud-user-common.iml" filepath="$PROJECT_DIR$/mo-cloud-user-common/mo-cloud-user-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-user-dal/mo-cloud-user-dal.iml" filepath="$PROJECT_DIR$/mo-cloud-user-dal/mo-cloud-user-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-user-service/mo-cloud-user-service.iml" filepath="$PROJECT_DIR$/mo-cloud-user-service/mo-cloud-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mo-cloud-user-web/mo-cloud-user-web.iml" filepath="$PROJECT_DIR$/mo-cloud-user-web/mo-cloud-user-web.iml" />
+    </modules>
+  </component>
+</project>

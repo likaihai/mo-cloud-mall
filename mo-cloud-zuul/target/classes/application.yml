@@ -1,0 +1,23 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: mo-cloud-zuul
+server:
+  port: 8041
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+logging:
+  level:
+    com.netflix: debug
+zuul:
+  routes:
+    mo-cloud-user:
+      path: /mo-cloud-user/**
+      serviceId: mo-cloud-user
+
+
